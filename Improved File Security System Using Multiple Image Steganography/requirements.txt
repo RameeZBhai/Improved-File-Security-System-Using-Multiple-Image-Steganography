@@ -1,0 +1,7 @@
+pip install numpy==1.19.2
+pip install Pillow==9.1.1
+pip install opencv-python==4.1.1.26
+pip install opencv-contrib-python==4.3.0.36
+
+
+ 
